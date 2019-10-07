@@ -8,3 +8,36 @@
     width: 351.56px;
     height: 75px;
 }
+.user{
+    float: right;
+    margin-right: 50px;
+    
+
+}
+.cart{
+    float: right;
+    margin-right: 50px;
+}
+#ma{
+    padding-left: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial,sans-serif;
+    font-size: 11px;
+    
+}
+
+#hs{
+    font-family: Arial,sans-serif;
+    font-size: 11px;
+    padding-left: 10px;
+    
+}
+.matext{
+    float: right;
+    margin-right: 50px;
+}
+
+#rightbar{
+    margin-right: 50px;
+}
