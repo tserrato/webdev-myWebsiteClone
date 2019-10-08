@@ -7,23 +7,27 @@
 .logo{
     width: 351.56px;
     height: 75px;
+    margin-left: 20%;
 }
 .user{
     float: right;
-    margin-right: 50px;
+    margin-top: 20px;
     
 
 }
 .cart{
     float: right;
-    margin-right: 50px;
+    margin-right: 20%;
+    padding-top: 5px;
+    margin-top: 20px;
+    
 }
 #ma{
     padding-left: 10px;
     font-weight: bold;
     text-transform: uppercase;
     font-family: Arial,sans-serif;
-    font-size: 11px;
+    font-size: 14px;
     
 }
 
@@ -31,13 +35,34 @@
     font-family: Arial,sans-serif;
     font-size: 11px;
     padding-left: 10px;
+    text-transform: uppercase;
     
 }
 .matext{
     float: right;
-    margin-right: 50px;
+    margin-right: 25px;
+    margin-top: 20px;
+
+}
+.ma_cart{
+    float: right;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    padding-top: 5px;
+
+}
+#nav{
+    background-color: black;
+
+}
+.left-nav{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+
 }
 
-#rightbar{
-    margin-right: 50px;
-}
