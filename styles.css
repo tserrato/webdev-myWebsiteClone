@@ -63,6 +63,13 @@
     text-transform: uppercase;
     font-family: Arial,sans-serif;
     font-size: 15px;
+    
+    
 
+
+}
+li{
+    list-style: none;
+    display: inline;
 }
 
