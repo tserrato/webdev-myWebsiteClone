@@ -58,24 +58,34 @@ body{
 }
 #nav{
     background-color: black;
-    height: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     width: 1903px;
 
 }
 .left-nav{
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-transform: uppercase;
-    font-family: Arial,sans-serif;
-    font-size: 15px;
-    
-    
-
+    font-family: "Oswald";
+    font-size: 14px;
+    margin-left: 19.5%;
+}
+.sh{
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 14px;
+    margin-right: 25%;
+    float: right;
+    padding-bottom: 25px;
 
 }
 li{
     list-style: none;
     display: inline;
+    margin-left: 25px;
 }
 
 #hero{
@@ -240,4 +250,93 @@ h4{
     text-transform: uppercase;
     font-weight: 1500px;
     margin-left: 22.5px;
+}
+.button1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 198.2px;
+    height: 39px;
+    border: solid grey 2px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Oswald";
+}
+.spacer{
+    height: 500px;
+}
+.button2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 198.2px;
+    height: 39px;
+    border: solid grey 2px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Oswald";
+    background-color: rgba(204,204,204,.95);
+}
+.one{
+    color: black;
+    text-transform: uppercase;
+    font-size: 80px;
+    text-align: center;
+    font-family: "Oswald";
+    font-weight: bolder;
+    padding-top: 145px;
+    z-index: -1;
+    
+
+}
+.two{
+    color: black;
+    text-transform: uppercase;
+    font-size: 80px;
+    text-align: center;
+    font-family: "Oswald";
+    font-weight: bolder;
+    position: relative;
+    z-index: -2;
+    margin-top: -60px;
+    opacity: 0.25;
+    
+
+}
+.three{
+    color: black;
+    text-transform: uppercase;
+    font-size: 80px;
+    text-align: center;
+    font-family: "Oswald";
+    font-weight: bolder;
+    position: relative;
+    z-index: -3;
+    margin-top: -70px;
+    opacity: 0.1;
+    
+
+}
+.be{
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 23px;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 25px;
+}
+.spacer2{
+    height: 20px;
+}
+.button3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 230.66px;
+    height: 40px;
+    border: solid grey 2px;
+    color: black;
+    text-align: center;
+    padding-top: 12px;
+    font-family: "Oswald";
+    font-weight: bolder;
 }
