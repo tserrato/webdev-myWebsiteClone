@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 #bar{
     background-color:white;
     width: 100%;
@@ -55,6 +58,8 @@
 }
 #nav{
     background-color: black;
+    height: 50px;
+    width: 1903px;
 
 }
 .left-nav{
@@ -76,30 +81,163 @@ li{
 #hero{
     background-image: url(images/fi-homepage-banner-lg.jpg);
     background-size: cover;
-    width: 100vw;
-    height: 100vh;
+    width: 1902px;
+    height: 590px;
     background-position: center;
 }
 #fortun{
     background-image: url(images/fortuneauto-desktop.jpg);
     background-size: cover;
-    width: 100%;
-    height: 100vh;
+    width: 1903px;
+    height: 750.52px;
     background-position: center;
 }
 #top{
     background-image: url(images/top19-dekstop.jpg);
     background-size: cover;
-    width: 100%;
-    height: 100vh;
+    width: 1902px;
+    height: 703.2px;
     background-position: center;
 }
 #stance{
     background-image: url(images/fitment-industries-add-your-car.png);
     background-size: cover;
-    width: 100%;
-    height: 100vh;
+    width: 1902px;
+    height: 648.97px;
     background-position: center;
+    margin-bottom: 162.250px;
 
 }
+.accuair{
+    width: 50%;
+    height: 648.97px;
+}
+.airlift{
+    width: 50%;
+    height: 648.97px;
+    
+}
+#susp{
+    display: inline;
+}
+#custom{
+    background-image: url(images/fitment-industries-car-gallery.jpg);
+    background-size: cover;
+    width: 1902px;
+    height: 648.97px;
+    background-position: center;
+}
+#detailer{
+    background-image: url(images/fitment-industries-carcare-products.jpg);
+    background-size: cover;
+    width: 1902px;
+    height: 623.73px;
+    background-position: center;
+}
+#cate{
+    display: inline-block;
+}
+.sizer{
+    width: 24.8%;
+    height: 300.31;
 
+}
+#charity{
+    background-image: url(images/donation-counter-img.png);
+    background-size: cover;
+    width: 1902px;
+    height: 287px;
+    background-position: center;
+}
+#truck{
+    background-image: url(images/custom-offsets-truck-gallery.png);
+    background-size: cover;
+    width: 1902px;
+    height: 648.97px;
+    background-position: center;
+}
+.feat{
+    font-weight: 900px;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+
+}
+h4{
+    font-family: "Oswald";
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.avidone{
+    width: 240px;
+    height: 304px;
+    border: solid grey 1px;
+    float: left;
+    margin-left: 50px;
+}
+.cosmis{
+    width: 240px;
+    height: 304px;
+    border: solid grey 1px;
+    float: left;
+    margin-left: 50px;
+}
+.avidtwo{
+    width: 240px;
+    height: 304px;
+    border: solid grey 1px;
+    float: left;
+    margin-left: 50px;
+}
+.jnc{
+    background-size: cover;
+    width: 240px;
+    height: 304px;
+    border: solid grey 1px;
+    float: left;
+    margin-left: 50px;
+}
+#featprod{
+    display: inline;
+}
+.pic{
+    width: 220px;
+    height: 220px;
+    margin-left: 5%;
+    
+}
+.logos{
+    width: 100px;
+    height: 25px;
+    margin-left: 30%;
+    
+}
+.logosjnc{
+    width: 25px;
+    height: 25px;
+    margin-left: 45%;
+    
+}
+#feat{
+    margin-left: 325px;
+}
+.name{
+    margin-left: 55px;
+    font-family: "Oswald";
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.namee{
+    margin-left: 95px;
+    font-family: "Oswald";
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.store{
+    font-family: "Oswald";
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 1500px;
+    margin-left: 22.5px;
+}
