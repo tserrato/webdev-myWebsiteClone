@@ -397,7 +397,7 @@ h4{
     background-image: url(images/fitment_inc_wheels_tires.jpg);
     background-size: cover;
     background-position: center;
-    width: 462.5px;
+    width: 24.3%;
     height: 300.31px;
     display: inline-block;
     color:white;
@@ -410,7 +410,7 @@ h4{
     background-image: url(images/fitment_inc_suspension.jpg);
     background-size: cover;
     background-position: center;
-    width: 462.5px;
+    width: 24.3%;
     height: 300.31px;
     display: inline-block;
     color:white;
@@ -423,7 +423,7 @@ h4{
     background-image: url(images/fitment_inc_accessories.jpg);
     background-size: cover;
     background-position: center;
-    width: 462.5px;
+    width: 24.3%;
     height: 300.31px;
     display: inline-block;
     color:white;
@@ -436,7 +436,7 @@ h4{
     background-image: url(images/fitment_inc_youtube_tv.jpg);
     background-size: cover;
     background-position: center;
-    width: 462.5px;
+    width: 24.3%;
     height: 300.31px;
     display: inline-block;
     color:white;
@@ -447,5 +447,5 @@ h4{
 }
 #cate{
     display: inline-block;
-    width62.50%;
+    width: 100%;
 }
