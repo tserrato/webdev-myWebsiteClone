@@ -1,5 +1,6 @@
 body{
     overflow-x: hidden;
+    margin: 0;
 }
 #bar{
     background-color:white;
@@ -147,11 +148,6 @@ li{
 #cate{
     display: inline-block;
 }
-.sizer{
-    width: 24.8%;
-    height: 300.31;
-
-}
 #charity{
     background-image: url(images/donation-counter-img.png);
     background-size: cover;
@@ -270,7 +266,7 @@ h4{
     margin-right: auto;
     width: 198.2px;
     height: 39px;
-    border: solid grey 2px;
+    border: solid black 2px;
     color: white;
     text-align: center;
     padding-top: 20px;
@@ -333,10 +329,122 @@ h4{
     margin-right: auto;
     width: 230.66px;
     height: 40px;
-    border: solid grey 2px;
+    border: solid black 2px;
     color: black;
     text-align: center;
     padding-top: 12px;
     font-family: "Oswald";
     font-weight: bolder;
+}
+.cars{
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: bolder;
+    float: right;
+    font-family: "Oswald";
+    margin-top: 250px;
+    margin-right: 35px;
+    
+}
+.ca{
+    text-transform: uppercase;
+    font-family: "Oswald";
+    padding-top: 300px;
+    margin-left: 1250px;
+    
+}
+.button4{
+    margin-left: 1360px;
+    width: 230.66px;
+    height: 40px;
+    border: solid black 2px;
+    color: black;
+    text-align: center;
+    padding-top: 12px;
+    font-family: "Oswald";
+    font-weight: bolder;
+}
+.spacer3{
+    height: 25px;
+}
+.show{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bolder;
+    float: right;
+    font-family: "Oswald";
+    margin-top: 250px;
+    margin-right: 100px;
+}
+.enth{
+    text-transform: uppercase;
+    font-family: "Oswald";
+    padding-top: 320px;
+    margin-left: 1448px;
+}
+.button5{
+    margin-left: 1460px;
+    width: 200px;
+    height: 42px;
+    border: solid black 2px;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    font-family: "Oswald";
+    font-weight: bolder;
+}
+#wheels{
+    background-image: url(images/fitment_inc_wheels_tires.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 462.5px;
+    height: 300.31px;
+    display: inline-block;
+    color:white;
+    font-family: "Oswald";
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 10px;
+}
+#suspension{
+    background-image: url(images/fitment_inc_suspension.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 462.5px;
+    height: 300.31px;
+    display: inline-block;
+    color:white;
+    font-family: "Oswald";
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 10px;
+}
+#accesories{
+    background-image: url(images/fitment_inc_accessories.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 462.5px;
+    height: 300.31px;
+    display: inline-block;
+    color:white;
+    font-family: "Oswald";
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 10px;
+}
+#tv{
+    background-image: url(images/fitment_inc_youtube_tv.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 462.5px;
+    height: 300.31px;
+    display: inline-block;
+    color:white;
+    font-family: "Oswald";
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 10px;
+}
+#cate{
+    display: inline-block;
 }
