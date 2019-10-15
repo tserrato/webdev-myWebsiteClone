@@ -453,3 +453,99 @@ div#charity h2{
     font-size: 38px;
 
 }
+.charity-meter{
+    width: 1216px;
+    height: 16px;
+    border: solid 8px black;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bar{
+    height: 16px;
+    width: 98%;
+    background-color: #0d81c3;
+    float: left;
+}
+.bar2{
+    height: 16px;
+    width: 2%;
+    background-color: #7b7b7b;
+    float: right;
+}
+.donate{
+    font-family: Oswald;
+padding-left: 15px;
+background: transparent;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 15px;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 0px;
+color: white;
+display: inline;
+font-size: 24px;
+padding: 8px;
+text-align: center;
+margin-left: 30%;
+background-color: black;
+opacity: .8;
+font-style: italic;
+font-weight: 200;
+letter-spacing: 2px;
+text-indent: 2px;
+}
+.spacerc{
+    height: 75px;
+}
+#truck{
+    text-align: center;
+}
+.ttitle{
+    font-family: "Oswald";
+    font-weight: bolder;
+    font-size: 54px;
+    text-transform: uppercase;
+    padding-top: 190px;
+    padding-left: 75px;
+    
+}
+.look{
+    font-family: "Oswald";
+    font-size: 19.2px;
+    text-transform: uppercase;
+    font-weight: 100;
+    padding-top: 35px;
+    padding-left: 75px;
+    padding-bottom: 10px;
+}
+.line{
+    background-color: black;
+    height: 1px;
+    width: 325px;
+    margin-left: 43.5%;
+    margin-right: auto;
+    margin-top: 25px;
+}
+.op{
+    font-family: "Oswald";
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 4.5%;
+    margin-right: auto;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.buttonst{
+    margin-left: 46.9%;
+    margin-right: auto;
+    width: 198.2px;
+    height: 39px;
+    border: solid black 2px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Oswald";
+}
+.spacerst{
+    height: 25px;
+}
